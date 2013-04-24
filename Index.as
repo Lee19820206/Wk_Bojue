@@ -22,7 +22,7 @@ package
 	{
 		public var fishBtn:SimpleButton;
 		public var freeBtn:SimpleButton;
-		//public var soundBtn:SoundBox;
+		//public var soundBtn:SoundBox;###
 		
 		private var _freeFunc:Function;
 		private var _fishFunc:Function;
